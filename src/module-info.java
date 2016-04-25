@@ -1,0 +1,2 @@
+module ivanovanton.dpkglist {
+}
